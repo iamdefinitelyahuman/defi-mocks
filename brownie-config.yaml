@@ -1,0 +1,2 @@
+# enables automatic retrieval of source code from etherscan
+autofetch_sources: true
